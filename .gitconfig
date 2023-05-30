@@ -1,0 +1,9 @@
+[user]
+	name = Kirill
+	email = kirill.a.makovskiy@gmail.com
+[core]
+	autocrlf = true
+	safecrlf = warn
+	quotepath = off
+[alias]
+	history = log --graph
