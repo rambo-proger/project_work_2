@@ -32,7 +32,7 @@
 	- настройка среды и конфига произошла в пункте 3. данного задания. Были выполнены команды:
 	  git config --global user.name "Kirill Makovskiy"
 	  git config --global user.email kirill.a.makovskiy@gmail.com
-	  git config --global alias.history git log --graph
+	  git config --global alias.history "git log --graph"
 	  также в PyCharm была настроена синхронизация с GitHub
 	  
 	- лежащий в проекте конфиг находится по адресу         
@@ -45,7 +45,7 @@
 	  
 	- внести изменения в неё;
 	  внесите в папку с файлами локального репозитория все необходимые изменения, затем 
-	  исполните команды git add. ; git commit -m "commentary text" ; git pull
+	  исполните команды git add . ; git commit -m "commentary text" ; git pull
 	
 	- слить эти изменения с основной кодовой базой.
 	  зайдите на GitHub и выполните до конца последовательность "Compare & pull request"
