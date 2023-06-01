@@ -30,7 +30,7 @@
 	  команду 'Git Bash Here'
 	  
 	- настройка среды и конфига произошла в пункте 3. данного задания. Были выполнены команды:
-	  git config --global user.name "Kirill Makovskiy"
+	  git config --global user.name "Kirill"
 	  git config --global user.email kirill.a.makovskiy@gmail.com
 	  git config --global alias.history "git log --graph"
 	  также в PyCharm была настроена синхронизация с GitHub
